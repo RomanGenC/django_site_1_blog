@@ -1,0 +1,5 @@
+mysite1.secret.py
+__pycache__/
+.idea/
+secret
+
